@@ -343,6 +343,9 @@ header {
     background-color: #393939;
     transform: rotate(360deg)
 }
+.social-link ul li .fab, .fas {
+    color: #fff;
+}
 
 svg.radial-progress {
     height: auto;
